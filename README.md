@@ -38,4 +38,4 @@ A full-stack web application built with **Java, Spring Boot, Hibernate, JSP**, a
 
 4. Run the application using the `main()` method in `StudentManagementSystemApplication.java`.
 
-5. Open browser and go to:
+5. Open browser and go to: http://localhost:8080
